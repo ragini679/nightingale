@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "850176247137",
+    "project_id": "nightingale-12267",
+    "storage_bucket": "nightingale-12267.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850176247137:android:fbd96609cbb471ee3e3120",
+        "android_client_info": {
+          "package_name": "com.example.nightingale"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAerVfEXrR3J9eKk03r46FYJvE1K2myzVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
